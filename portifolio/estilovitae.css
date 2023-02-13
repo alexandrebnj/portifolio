@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* height: 100vh; */
+    box-sizing: border-box;
+    background-color: #181d31;
+    color: #E6DDC4;
+}
+
+.cabecalho{
+    padding: 2% 0% 0% 15%;
+}
+
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__link2{
+    font-family: "Monteserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22d4fd;
+    text-decoration: none;
+}
+
+.foto__alexandre{
+    font-family: "Montserrat",sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+
+}
+
+.apresentacao__curriculum{
+    padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.titulo__curriculum{
+    display: flex;
+    align-items: center;
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+   
+}
+
+.titulo__dizeres{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{
+    padding: 24px;
+    color: #000000;
+    background-color: #22d4fd;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
